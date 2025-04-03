@@ -1,7 +1,7 @@
 <!-- General stats -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bcb&show_icons=true&theme=onedark"
+    srcset="https://github-readme-stats.vercel.app/api?username=bcb&show_icons=true&theme=synthwave"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -14,7 +14,7 @@
 <!-- Top languages -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bcb&show_icons=true&theme=cobalt"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bcb&show_icons=true&theme=highcontrast"
     media="(prefers-color-scheme: dark)"
   />
   <source
