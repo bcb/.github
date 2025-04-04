@@ -1,5 +1,3 @@
-https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=rickstaa&include_orgs=truehttps://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=bcb&include_orgs=true&show_icons=true&theme=synthwave
-
 <!-- General stats -->
 <picture>
   <source
